@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckggcciqjjffsaaaaaabddhhhlqccmfjeelgg",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "type" : "default",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false,
+    "bgvar" : ""
+  },
+  "slot" : "ck62iq95s000c3h7l3i9dwv7u",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ck62ip6tc00033h7lpxske9n7","size":"12","rows":[],"id":"ck62iqb5m000g3h7lxbuotyx3"}],"id":"ck62iqb5m000f3h7lbfqcobjr"}
+      }
+    },
+    "composition" : [ {
+      "elementId" : "ckggccipggtcaaaaaaccddhhhlaalveeafaae",
+      "elementLabel" : "Heading",
+      "propertyValues" : {
+        "label" : "Workspace Demo",
+        "variant" : "header-primary",
+        "wontWrap" : false,
+        "hasNoMargin" : false
+      },
+      "slot" : "ck62ip6tc00033h7lpxske9n7",
+      "definition" : {
+        "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ]
+  }
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"row","id":"ck62ip6tc00043h7lxs9accgi","columns":[{"type":"column","id":"ck62iq95s000d3h7l2uno5jxb","slotName":"ck62iq95s000c3h7l3i9dwv7u","size":"12"}]}
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Workspace Demo Home</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:44:59</sys_created_on>
+        <sys_id>c4038af72f22001093b6811df699b668</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Workspace Demo Home</sys_name>
+        <sys_package display_value="Workspace Demo" source="x_11264_workspace">c7e146f32f22001093b6811df699b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</sys_scope>
+        <sys_update_name>sys_ux_macroponent_c4038af72f22001093b6811df699b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:46:42</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</application>
+        <file_path/>
+        <instance_id>65a704b6dbde04d00b9d21c40596191f</instance_id>
+        <instance_name>dev96935</instance_name>
+        <name>sys_ux_macroponent_c4038af72f22001093b6811df699b668</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><component_dependencies/><composition>[ {
+  "elementId" : "ckggcciqjjffsaaaaaabddhhhlqccmfjeelgg",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "type" : "default",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false,
+    "bgvar" : ""
+  },
+  "slot" : "ck62iq95s000c3h7l3i9dwv7u",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ck62ip6tc00033h7lpxske9n7","size":"12","rows":[],"id":"ck62iqb5m000g3h7lxbuotyx3"}],"id":"ck62iqb5m000f3h7lbfqcobjr"}
+      }
+    },
+    "composition" : [ {
+      "elementId" : "ckggccipggtcaaaaaaccddhhhlaalveeafaae",
+      "elementLabel" : "Heading",
+      "propertyValues" : {
+        "label" : "Workspace Demo",
+        "variant" : "header-primary",
+        "wontWrap" : false,
+        "hasNoMargin" : false
+      },
+      "slot" : "ck62ip6tc00033h7lpxske9n7",
+      "definition" : {
+        "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ]
+  }
+} ]</composition><data/><events/><extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends><interactions/><layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"row","id":"ck62ip6tc00043h7lxs9accgi","columns":[{"type":"column","id":"ck62iq95s000d3h7l2uno5jxb","slotName":"ck62iq95s000c3h7l3i9dwv7u","size":"12"}]}
+  }
+}</layout><macroponent_dependencies/><name>Workspace Demo Home</name><props/><root_component/><root_component_config/><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 18:44:59</sys_created_on><sys_id>c4038af72f22001093b6811df699b668</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Workspace Demo Home</sys_name><sys_package display_value="Workspace Demo" source="x_11264_workspace">c7e146f32f22001093b6811df699b6f6</sys_package><sys_policy/><sys_scope display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</sys_scope><sys_update_name>sys_ux_macroponent_c4038af72f22001093b6811df699b668</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 18:46:42</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>537448677</payload_hash>
+        <record_name>Workspace Demo Home</record_name>
+        <reverted_from/>
+        <source>8fe146f32f22001093b6811df699b6f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:46:42</sys_created_on>
+        <sys_id>4d63023b2f22001093b6811df699b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffced37720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:46:42</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>c563023b0c220010bfd74d7a407e1dcd</update_guid>
+        <update_guid_history>c563023b0c220010bfd74d7a407e1dcd:537448677,14634ef77b220010e4f5f795d3551933:560989635,08038af7cf220010a8ba2ea0059d546a:2129262694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:47:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>86ecdf75e0c64474bd5f93332d9d6b90</sys_id>
+        <sys_metadata>c4038af72f22001093b6811df699b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Demo Home</sys_name>
+        <sys_package display_value="Workspace Demo" source="x_11264_workspace">c7e146f32f22001093b6811df699b6f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</sys_scope>
+        <sys_scope_delete display_value="">1fab00eefbb945bf9f659a7c6a82fe39</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_c4038af72f22001093b6811df699b668</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_c4038af72f22001093b6811df699b668">4d63023b2f22001093b6811df699b6cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:47:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

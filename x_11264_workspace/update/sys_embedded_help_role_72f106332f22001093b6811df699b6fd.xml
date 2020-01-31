@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_11264_workspace.user" name="x_11264_workspace.user">f2f106332f22001093b6811df699b6fa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:40:32</sys_created_on>
+        <sys_id>72f106332f22001093b6811df699b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f2f106332f22001093b6811df699b6fa</sys_name>
+        <sys_package display_value="Workspace Demo" source="x_11264_workspace">c7e146f32f22001093b6811df699b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_72f106332f22001093b6811df699b6fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:40:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>73924ab72f22001093b6811df699b67d</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/workspace_demo</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 18:43:20</sys_created_on>
+        <sys_id>7b924ab72f22001093b6811df699b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Demo</sys_name>
+        <sys_package display_value="Workspace Demo" source="x_11264_workspace">c7e146f32f22001093b6811df699b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Demo">c7e146f32f22001093b6811df699b6f6</sys_scope>
+        <sys_update_name>sys_ux_page_registry_7b924ab72f22001093b6811df699b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 18:43:20</sys_updated_on>
+        <title>Workspace Demo</title>
+    </sys_ux_page_registry>
+</record_update>
